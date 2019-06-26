@@ -6,3 +6,4 @@
 [![Repo Link](https://img.shields.io/badge/Repo-Link-black.svg)](https://github.com/ianramzy/beautiful-todo)
 
 ✅ An overly aesthetic frontend for a todo list
+# → https://ianramzy.com/beautiful-todo/
